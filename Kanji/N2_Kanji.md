@@ -1,23 +1,16 @@
 |   # | Kanji   | Onyomi                   | Kunyomi                                           | Kanji Meaning                                         |
 |----:|:--------|:-------------------------|:--------------------------------------------------|:------------------------------------------------------|
 |   1 | 党      | touトウ                  | nakama, muraなかま、 むら                         | party, faction, clique                                |
-|   2 | 協      | kyouキョウ               | nan                                               | co-, cooperation                                      |
 |   3 | 総      | souソウ                  | sube(te), fusaすべ(て)、 ふさ                     | general, whole, all                                   |
-|   4 | 区      | kuク                     | nan                                               | ward, district                                        |
 |   5 | 領      | ryouリョウ               | eriえり                                           | jurisdiction, dominion                                |
 |   6 | 県      | kenケン                  | ka(keru)か(ける)                                  | prefecture                                            |
 |   7 | 設      | setsuセツ                | mou(keru)もう(ける)                               | establishment, provision                              |
 |   8 | 保      | ho, houホ、ホウ          | tamo(tsu)たも(つ)                                 | protect, guarantee, keep                              |
 |   9 | 改      | kaiカイ                  | arata(meru)あらた(める)                           | reformation, change, modify                           |
-|  10 | 第      | daiダイ                  | nan                                               | No., number                                           |
 |  11 | 結      | ketsuケツ                | musu(bu), yu(u)むす(ぶ)、ゆ(う)                   | tie, bind, contract                                   |
-|  12 | 派      | haハ                     | nan                                               | faction, group, party                                 |
-|  13 | 府      | fuフ                     | nan                                               | borough, urban prefecture, govt office                |
-|  14 | 査      | saサ                     | nan                                               | investigate                                           |
 |  15 | 委      | iイ                      | yuda(neru)ゆだ(ねる)                              | committee, entrust to                                 |
 |  16 | 軍      | gunグン                  | ikusaいくさ                                       | army, force, troops                                   |
 |  17 | 案      | anアン                   | tsukueつくえ                                      | plan, suggestion, draft                               |
-|  18 | 策      | sakuサク                 | nan                                               | scheme, plan, policy                                  |
 |  19 | 団      | dan, tonダン、トン       | katamari, maru(i)かたまり、 まる(い)              | group, association                                    |
 |  20 | 各      | kakuカク                 | onoonoおのおの                                    | each; every; either                                   |
 |  21 | 島      | touトウ                  | shimaしま                                         | island                                                |
@@ -26,24 +19,18 @@
 |  24 | 勢      | seiセイ                  | ikio(i)いきお(い)                                 | forces; energy; military strength                     |
 |  25 | 減      | genゲン                  | he(ru)へ(る)                                      | dwindle; decrease; reduce                             |
 |  26 | 再      | sai, saサイ、 サ         | futata(bi)ふたた(び)                              | again, twice, second time                             |
-|  27 | 税      | zeiゼイ                  | nan                                               | tax; duty                                             |
 |  28 | 営      | eiエイ                   | itona(mu)いとな(む)                               | occupation; camp; perform; build; conduct (business)  |
 |  29 | 比      | hiヒ                     | kura(beru)くら(べる)                              | compare; race; ratio                                  |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  30 | 防      | bouボウ                  | fuse(gu)ふせ(ぐ)                                  | ward off; defend; protect; resist                     |
 |  31 | 補      | hoホ                     | ogina(u)おぎな(う)                                | supplement; supply; offset; compensate                |
 |  32 | 境      | kyouキョウ               | sakaiさかい                                       | boundary, border, region                              |
 |  33 | 導      | douドウ                  | michibi(ku)みちび(く)                             | guidance; leading; conduct; usher                     |
-|  34 | 副      | fukuフク                 | nan                                               | vice-; assistant; aide; duplicate; copy               |
 |  35 | 算      | sanサン                  | soroそろ                                          | calculate; divining; number; probability              |
-|  36 | 輸      | yu, shuユ、 シュ         | nan                                               | transport, send, be inferior                          |
 |  37 | 述      | jutsuジュツ              | no(beru)の(べる)                                  | mention; state; speak                                 |
 |  38 | 線      | senセン                  | sujiすじ                                          | line; track                                           |
-|  39 | 農      | nouノウ                  | nan                                               | agriculture; farmers                                  |
 |  40 | 州      | shuuシュウ               | suす                                              | state; province                                       |
 |  41 | 武      | bu, muブ、 ム            | take(shi)たけ(し)                                 | warrior; military; chivalry; arms                     |
 |  42 | 象      | shou, zouショウ、 ゾウ   | katado(ru)かたど(る)                              | elephant; pattern after; image; shape                 |
-|  43 | 域      | ikiイキ                  | nan                                               | range; region; limits; stage; level                   |
 |  44 | 額      | gakuガク                 | hitaiひたい                                       | forehead; tablet; framed picture; sum; amount; volume |
 |  45 | 欧      | ouオウ                   | uta(u), ha(ku)うた(う)、 は(く)                   | Europe                                                |
 |  46 | 担      | tanタン                  | katsu(gu), nina(u)かつ(ぐ)、 にな(う)             | shouldering; carry; raise; bear                       |
@@ -56,11 +43,8 @@
 |  53 | 低      | teiテイ                  | hiku(i)ひく(い)                                   | lower; short; humble                                  |
 |  54 | 復      | fukuフク                 | mataまた                                          | restore, return to, revert                            |
 |  55 | 移      | iイ                      | utsu(ru)うつ(る)                                  | shift, move, change                                   |
-|  56 | 個      | koコ                     | nan                                               | individual; counter for articles                      |
 |  57 | 門      | monモン                  | kado, toかど、 と                                 | gate                                                  |
-|  58 | 課      | kaカ                     | nan                                               | chapter, lesson, section, department                  |
 |  59 | 脳      | nouノウ                  | nouzuruのうずる                                   | brain; memory                                         |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  60 | 極      | kyoku, gokuキョク、 ゴク | kiwa(meru)きわ(める)                              | poles; settlement; conclusion; end                    |
 |  61 | 含      | ganガン                  | fuku(mu)ふく(む)                                  | contain; include                                      |
 |  62 | 蔵      | zouゾウ                  | kuraくら                                          | storehouse; hide; own; have; possess                  |
@@ -70,7 +54,6 @@
 |  66 | 針      | shinシン                 | hariはり                                          | needle; pin; staple; stinger                          |
 |  67 | 専      | senセン                  | moppa(ra)もっぱ(ら)                               | specialty; exclusive; mainly; solely                  |
 |  68 | 谷      | kokuコク                 | tani, kiwa(maru)たに、 きわ(まる)                 | valley                                                |
-|  69 | 史      | shiシ                    | nan                                               | history; chronicle                                    |
 |  70 | 階      | kaiカイ                  | kizahashiきざはし                                 | stair; counter for building story                     |
 |  71 | 管      | kanカン                  | kudaくだ                                          | pipe; tube; wind instrument; control; jurisdiction    |
 |  72 | 兵      | hei, hyouヘイ、 ヒョウ   | tsuwamonoつわもの                                 | soldier; private; troops; army                        |
@@ -85,21 +68,13 @@
 |  81 | 橋      | kyouキョウ               | hashiはし                                         | bridge                                                |
 |  82 | 岸      | ganガン                  | kishiきし                                         | beach                                                 |
 |  83 | 周      | shuuシュウ               | mawa(ri)まわ(り)                                  | circumference; circuit; lap                           |
-|  84 | 材      | zaiザイ                  | nan                                               | lumber, log, timber, wood                             |
 |  85 | 戸      | koコ                     | toと                                              | door; counter for houses                              |
-|  86 | 央      | ouオウ                   | nan                                               | center; middle                                        |
-|  87 | 券      | kenケン                  | nan                                               | ticket                                                |
 |  88 | 編      | henヘン                  | a(mu)あ(む)                                       | compilation; knit; braid; twist; editing              |
 |  89 | 捜      | souソウ                  | saga(su)さが(す)                                  | search; look for; locate                              |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  90 | 竹      | chikuチク                | takeたけ                                          | bamboo                                                |
 |  91 | 超      | chouチョウ               | ko(eru)こ(える)                                   | transcend; super-; ultra-                             |
 |  92 | 並      | heiヘイ                  | na(mi), nami, nara(beru)な(み)、なみ、なら(べる)  | row, and, besides                                     |
-|  93 | 療      | ryouリョウ               | nan                                               | heal; cure                                            |
 |  94 | 採      | saiサイ                  | to(ru)と(る)                                      | pick; take; fetch; take up                            |
 |  95 | 森      | shinシン                 | moriもり                                          | forest, woods                                         |
 |  96 | 競      | kyou, keiキョウ、 ケイ   | kiso(u), se(ru)きそ(う)、 せ(る)                  | compete with; bid; contest; race                      |
-|  97 | 介      | kaiカイ                  | nan                                               | jammed in; shellfish; mediate                         |
 |  98 | 根      | konコン                  | neね                                              | root; radical                                         |
-|  99 | 販      | hanハン                  | nan                                               | marketing, sell, trade                                |
-| 100 | 歴      | rekiレキ                 | nan                                               | curriculum; continuation; passage of time             |
