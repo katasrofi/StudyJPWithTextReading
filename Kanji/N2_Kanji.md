@@ -29,7 +29,6 @@
 |  27 | 税      | zeiゼイ                  | nan                                               | tax; duty                                             |
 |  28 | 営      | eiエイ                   | itona(mu)いとな(む)                               | occupation; camp; perform; build; conduct (business)  |
 |  29 | 比      | hiヒ                     | kura(beru)くら(べる)                              | compare; race; ratio                                  |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  30 | 防      | bouボウ                  | fuse(gu)ふせ(ぐ)                                  | ward off; defend; protect; resist                     |
 |  31 | 補      | hoホ                     | ogina(u)おぎな(う)                                | supplement; supply; offset; compensate                |
 |  32 | 境      | kyouキョウ               | sakaiさかい                                       | boundary, border, region                              |
@@ -60,7 +59,6 @@
 |  57 | 門      | monモン                  | kado, toかど、 と                                 | gate                                                  |
 |  58 | 課      | kaカ                     | nan                                               | chapter, lesson, section, department                  |
 |  59 | 脳      | nouノウ                  | nouzuruのうずる                                   | brain; memory                                         |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  60 | 極      | kyoku, gokuキョク、 ゴク | kiwa(meru)きわ(める)                              | poles; settlement; conclusion; end                    |
 |  61 | 含      | ganガン                  | fuku(mu)ふく(む)                                  | contain; include                                      |
 |  62 | 蔵      | zouゾウ                  | kuraくら                                          | storehouse; hide; own; have; possess                  |
@@ -91,7 +89,6 @@
 |  87 | 券      | kenケン                  | nan                                               | ticket                                                |
 |  88 | 編      | henヘン                  | a(mu)あ(む)                                       | compilation; knit; braid; twist; editing              |
 |  89 | 捜      | souソウ                  | saga(su)さが(す)                                  | search; look for; locate                              |
-| nan | nan     | nan                      | nan                                               | nan                                                   |
 |  90 | 竹      | chikuチク                | takeたけ                                          | bamboo                                                |
 |  91 | 超      | chouチョウ               | ko(eru)こ(える)                                   | transcend; super-; ultra-                             |
 |  92 | 並      | heiヘイ                  | na(mi), nami, nara(beru)な(み)、なみ、なら(べる)  | row, and, besides                                     |

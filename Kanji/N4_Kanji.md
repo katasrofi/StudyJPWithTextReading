@@ -29,7 +29,6 @@
 |  27 | 体      | taiタイ                            | karadaからだ                                                                    | body, substance, object, reality                     |
 |  28 | 田      | denデン                            | taた                                                                            | rice field, rice paddy                               |
 |  29 | 主      | shuシュ                            | nushi, omoぬし、 おも                                                           | lord, chief, master, main thing, principal           |
-| nan | nan     | nan                                | nan                                                                             | nan                                                  |
 |  30 | 題      | daiダイ                            | nan                                                                             | topic, subject                                       |
 |  31 | 意      | iイ                                | nan                                                                             | idea, mind, heart, taste, thought                    |
 |  32 | 不      | fu, buフ、 ブ                      | nan                                                                             | negative, non-, bad                                  |
@@ -60,7 +59,6 @@
 |  57 | 海      | kaiカイ                            | umiうみ                                                                         | sea, ocean                                           |
 |  58 | 売      | baiバイ                            | u(ru)う(る)                                                                     | sell                                                 |
 |  59 | 知      | chiチ                              | shi(ru)し(る)                                                                   | know, wisdom                                         |
-| nan | nan     | nan                                | nan                                                                             | nan                                                  |
 |  60 | 道      | douドウ                            | michiみち                                                                       | road-way, street, district, journey, course          |
 |  61 | 集      | shuuシュウ                         | atsu(meru)あつ(める)                                                            | gather, meet                                         |
 |  62 | 別      | betsuベツ                          | waka(reru), wa(keru)わか(れる)、 わ(ける)                                       | separate, branch off, diverge                        |
@@ -91,7 +89,6 @@
 |  87 | 急      | kyuuキュウ                         | iso(gu)いそ(ぐ)                                                                 | hurry, emergency, sudden, steep                      |
 |  88 | 止      | shiシ                              | to(maru), todo(maru), ya(meru), yo(su)と(まる)、 とど(まる)、 や(める)、 よ(す) | stop, halt                                           |
 |  89 | 送      | souソウ                            | oku(ru)おく(る)                                                                 | escort, send                                         |
-| nan | nan     | nan                                | nan                                                                             | nan                                                  |
 |  90 | 切      | setsu, saiセツ、 サイ              | ki(ru)き(る)                                                                    | cut, cutoff, be sharp                                |
 |  91 | 転      | tenテン                            | koro(garu)ころ(がる)                                                            | revolve, turn around, change                         |
 |  92 | 研      | kenケン                            | to(gu)と(ぐ)                                                                    | polish, study of, sharpen                            |

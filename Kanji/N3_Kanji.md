@@ -29,7 +29,6 @@
 |  27 | 約      | yakuヤク                                | tsuzu(maru)つづ(まる)                                          | promise, approximately, shrink                                 |
 |  28 | 首      | shuシュ                                 | kubiくび                                                       | neck                                                           |
 |  29 | 法      | houホウ                                 | noriのり                                                       | method, law, rule, principle, model, system                    |
-| nan | nan     | nan                                     | nan                                                            | nan                                                            |
 |  30 | 性      | sei, shouセイ、 ショウ                  | nan                                                            | sex, gender, nature                                            |
 |  31 | 的      | tekiテキ                                | nan                                                            | mark, target, object, adjective ending                         |
 |  32 | 要      | youヨウ                                 | i(ru), kanameい(る)、 かなめ                                   | need, main point, essence, pivot                               |
@@ -60,7 +59,6 @@
 |  57 | 活      | katsuカツ                               | nan                                                            | living                                                         |
 |  58 | 原      | genゲン                                 | haraはら                                                       | original, primitive, field                                     |
 |  59 | 共      | kyouキョウ                              | tomoとも                                                       | together, both, neither                                        |
-| nan | nan     | nan                                     | nan                                                            | nan                                                            |
 |  60 | 得      | tokuトク                                | e(ru)え(る)                                                    | gain, get, find, earn, acquire, can, may, able to, profit      |
 |  61 | 解      | kai, geカイ、ゲ                         | to(ku), hodo(ku)と(く)、ほど(く)                               | unravel, explanation                                           |
 |  62 | 交      | kouコウ                                 | maji(waru), ma(zeru), ka(wasu)まじ(わる)、 ま(ぜる)、 か(わす) | mingle, mixing, association, coming & going                    |
@@ -91,7 +89,6 @@
 |  87 | 官      | kanカン                                 | nan                                                            | bureaucrat, the government, organ                              |
 |  88 | 増      | zouゾウ                                 | ma(su), fu(eru)ま(す)、 ふ(える)                               | increase, add                                                  |
 |  89 | 係      | keiケイ                                 | kaka(ru), kakariかか(る)、かかり                               | person in charge, connection                                   |
-| nan | nan     | nan                                     | nan                                                            | nan                                                            |
 |  90 | 感      | kanカン                                 | nan                                                            | emotion, feeling, sensation                                    |
 |  91 | 情      | jou, seiジョウ、セイ                    | nasa(ke)なさ(け)                                               | feelings, emotion, passion                                     |
 |  92 | 投      | touトウ                                 | na(geru)な(げる)                                               | throw, discard                                                 |

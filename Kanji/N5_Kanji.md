@@ -29,7 +29,6 @@
 |  27 | 今      | kon, kinコン、 キン                     | imaいま                                                                                                 | now; the present                                         |
 |  28 | 金      | kin, kon, gonキン、 コン、 ゴン         | kane, kana, ganeかね、 かな-、 -がね                                                                    | gold                                                     |
 |  29 | 九      | kyuu, kuキュウ、 ク                     | kokono(tsu)ここの(つ)                                                                                   | nine, 9                                                  |
-| nan | nan     | nan                                     | nan                                                                                                     | nan                                                      |
 |  30 | 入      | nyuuニュウ                              | i(ru), hai(ru)い(る)、はい(る)                                                                          | enter, insert                                            |
 |  31 | 学      | gakuガク                                | mana(bu)まな(ぶ)                                                                                        | study, learning, science                                 |
 |  32 | 高      | kouコウ                                 | taka(i)たか(い)                                                                                         | tall, high, expensive                                    |
@@ -60,7 +59,6 @@
 |  57 | 西      | sei, saiセイ、 サイ                     | nishiにし                                                                                               | west                                                     |
 |  58 | 電      | denデン                                 | nan                                                                                                     | electricity; electric powered                            |
 |  59 | 校      | kouコウ                                 | nan                                                                                                     | school, exam                                             |
-| nan | nan     | nan                                     | nan                                                                                                     | nan                                                      |
 |  60 | 語      | goゴ                                    | kata(ru)かた(る)                                                                                        | word, speech, language                                   |
 |  61 | 土      | do, toド、 ト                           | tsuchiつち                                                                                              | soil, earth, ground                                      |
 |  62 | 木      | boku, mokuボク、 モク                   | ki, koき、 こ-                                                                                          | tree, wood                                               |
